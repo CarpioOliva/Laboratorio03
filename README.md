@@ -1,1 +1,2 @@
-# Laboratorio03
+Actualice la página en su navegador y pregúntese ¿Puedo diseñar toda mi web usando GRID? Porqué se dan estos cambios entre tan pocas líneas de diseño CSS.
+R// Se puede pero para realizarse debe conocer como se estara distribuida cada area a trabajar.
